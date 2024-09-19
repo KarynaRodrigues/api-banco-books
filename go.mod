@@ -1,4 +1,4 @@
-module github.com/spaaws/book-api
+module github.com/KarynaRodrigues/api-banco-books
 
 go 1.20
 
